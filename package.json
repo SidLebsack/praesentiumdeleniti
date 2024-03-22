@@ -1,0 +1,32 @@
+{
+  "name": "praesentiumdeleniti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SidLebsack/praesentiumdeleniti.git"
+  },
+  "keywords": [
+    "web3",
+    "tenetur",
+    "javascript",
+    "wrapper",
+    "asperiores",
+    "natus",
+    "nulla"
+  ],
+  "author": "BrentSchaden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SidLebsack/praesentiumdeleniti.git/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "eth-contract-class": "0.0.12",
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.12.0"
+  }
+}
